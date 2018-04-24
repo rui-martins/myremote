@@ -1,5 +1,7 @@
-﻿using System;
+﻿// The namespaces we import to our program
+using System;
 
+// The namespace we put our program in
 namespace TestProjectForGit
 {
     class Program
